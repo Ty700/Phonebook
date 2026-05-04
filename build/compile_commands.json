@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tyler/Coding_Workspace/C++/Phonebook/build",
+  "command": "/usr/bin/c++  -I/home/tyler/Coding_Workspace/C++/Phonebook/lib -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -o CMakeFiles/Phonebook.dir/src/app.cpp.o -c /home/tyler/Coding_Workspace/C++/Phonebook/src/app.cpp",
+  "file": "/home/tyler/Coding_Workspace/C++/Phonebook/src/app.cpp",
+  "output": "CMakeFiles/Phonebook.dir/src/app.cpp.o"
+}
+]

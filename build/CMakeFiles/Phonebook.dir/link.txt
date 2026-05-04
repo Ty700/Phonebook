@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/Phonebook.dir/src/app.cpp.o -o /home/tyler/Coding_Workspace/C++/Phonebook/bin/release/Phonebook 
